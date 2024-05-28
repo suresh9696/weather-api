@@ -1,0 +1,29 @@
+.card{
+    width: 40%;
+    padding: 40px;
+    margin-top: 30px;
+}
+button{
+    background-color: rgb(129, 223, 223);
+   border-radius: 3px;
+   padding: 5px;
+}
+input{
+   
+   border-radius: 3px;
+   padding: 5px;
+   border: 2px solid black;
+}
+img{
+    width: 200px;
+}
+/* .card-body{
+    background-color: lightblue;
+} */
+.card{
+    background-color: aqua;
+}
+button:hover{
+    background-color:rgb(42, 235, 42);
+    color: rgb(239, 12, 12);
+}
